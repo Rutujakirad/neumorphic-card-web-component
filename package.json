@@ -1,6 +1,6 @@
 {
   "name": "webcompoment",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A neumorphic card Web Component",
   "main": "neumorph-effect.js",
   "scripts": {
