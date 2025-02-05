@@ -1,0 +1,25 @@
+{
+  "name": "webcompoment",
+  "version": "1.0.1",
+  "description": "A neumorphic card Web Component",
+  "main": "neumorph-effect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rutujakirad/neumorphic-card-web-component.git"
+  },
+  "keywords": [
+    "[\"web",
+    "component\"",
+    "\"neumorphism\"",
+    "\"UI\"]"
+  ],
+  "author": "Rutuja Kirad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rutujakirad/neumorphic-card-web-component/issues"
+  },
+  "homepage": "https://github.com/Rutujakirad/neumorphic-card-web-component#readme"
+}
